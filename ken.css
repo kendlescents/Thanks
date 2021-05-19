@@ -19,7 +19,7 @@ hr {
 }
 
 footer {
-	position: center;
+	position: center center;
 }
 .btn {
 	border-radius: 50px;
