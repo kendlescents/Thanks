@@ -1,0 +1,41 @@
+body {
+	font-family: 'Caveat';
+	background: url(ken.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}	
+
+h1 {
+	color: #000001;
+	font-size: 30.5px;
+}
+
+hr {
+	border-color: #9b796a;
+	border-width: 2px;
+	max-width: 100px;
+}
+.btn {
+	border-radius: 50px;
+	text-transform: uppercase;
+}
+
+.btn-xl {
+	padding: 0rem .5rem;
+}
+
+.btn-light {
+	background-color: #9b796a;
+	border-color: #9b796a;
+}
+
+section {
+  position: fixed;
+  top: 435px; 
+
+}
+
+ 
+    
